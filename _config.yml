@@ -1,0 +1,8 @@
+title: unofficialbitjaipur.github.io
+description: Unofficial BIT Jaipur webpage - Notes and Papers for all B.E. students
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
